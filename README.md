@@ -117,4 +117,7 @@ Once you have training data in hand (and located in a subdirectory of the `data`
 
 Thanks to Andrej Karpathy for his [char-rnn](https://github.com/karpathy/char-rnn) repo, and to Sherjil Ozair for his [TensorFlow port](https://github.com/sherjilozair/char-rnn-tensorflow) of char-rnn, which this repo is based on.
 
-This is not My model and rights go to the respective owners, i only sed it as a pretrained model to run a new Datset
+Since the dataset is very small compared to better Models, we recevied an accuracy of only 43-45%. Although you wouldnt get an exact respose, a response similar to the question will be in place.
+
+
+This is not My model and rights go to the respective owners, i only used it as a pretrained model to run a new Dataset.
